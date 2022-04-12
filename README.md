@@ -3,7 +3,8 @@
 - 硬體設備:空拍機DJI Mavic 2 -> 蒐集訓練的資料集
 - labelImg -> 影像車輛標註
 - Google Colab -> 進行訓練
-- Python、OpenCV、Darknet -> 神經網路框架
+- Python、OpenCV
+- Darknet -> 神經網路框架
 ![image](https://github.com/jui-pung/VehicleRecognition_YOLO/blob/fb94738235c8a7b2381bc0b71acec6d8462ecd7c/labelImg_process.png)
 ### 專案實踐結果
 - 以YOLOv3結合車輛的空拍影像資料集，使用物件偵測演算法訓練在空拍影像中，車輛的辨識能力
