@@ -4,7 +4,7 @@
 - labelImg -> 影像車輛標註
 - Google Colab -> 進行訓練
 - Python、OpenCV、Darknet -> 神經網路框架
-![image](https://github.com/jui-pung/VehicleRecognition_YOLO/labelImg_process.png)
+![image](https://github.com/jui-pung/VehicleRecognition_YOLO/raw/master/labelImg_process.png)
 ### 專案實踐結果
 - 以YOLOv3結合車輛的空拍影像資料集，使用物件偵測演算法訓練在空拍影像中，車輛的辨識能力
 - 蒐集與拍攝400張車輛空拍影像，訓練、驗證資料依8:2比例隨機區分
