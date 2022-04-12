@@ -9,7 +9,8 @@
 ### 專案實踐結果
 - 以YOLOv3結合車輛的空拍影像資料集，使用物件偵測演算法訓練在空拍影像中，車輛的辨識能力
 - 蒐集與拍攝400張車輛空拍影像，訓練、驗證資料依8:2比例隨機區分
-- mAP:0.8314
+- mAP:0.8314<br>
+![image](https://github.com/jui-pung/VehicleRecognition_YOLO/blob/a5ddb13d28d3db3896f0f4cf1124394e480cfb8c/model_test_result.png)
 ### Reference
 https://medium.com/ching-i/yolo-c49f70241aa7<br>
 https://mropengate.blogspot.com/2018/06/yolo-yolov3.html
